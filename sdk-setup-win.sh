@@ -4,8 +4,8 @@ set -euo pipefail
 # ===================================================
 #  Configuration
 # ===================================================
-USERNAME="surikat-sdk"
-PASSWORD="surikat-sdk"
+USERNAME="luckfox"
+PASSWORD="luckfox"
 USER_HOME="/home/${USERNAME}"
 PKGS_BASE=( git ssh make gcc gcc-multilib g++-multilib module-assistant expect g++ gawk texinfo libssl-dev bison flex fakeroot cmake unzip gperf autoconf device-tree-compiler libncurses5-dev pkg-config bc python-is-python3 passwd openssl openssh-server openssh-client vim file cpio rsync htop )
 PKGS_RK=( libudev-dev libusb-1.0-0-dev dh-autoreconf )
